@@ -1,0 +1,1 @@
+A travelling salesman solver designed for the littlefe architecture. Using parallel programming APIs (OpenMPI and CUDA) and a genetic algorithm.
